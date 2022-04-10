@@ -1,0 +1,21 @@
+<div class="box box1">
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
+        similique reiciendis cumque nulla id voluptate explicabo neque velit.
+        Soluta iusto accusantium eveniet beatae commodi vero optio cupiditate
+        iste possimus dolores libero repellat ab, numquam corrupti sed et quis?
+        Sapiente molestiae aliquid nihil eaque optio, delectus quibusdam unde
+        corrupti voluptatibus amet?
+      </p>
+    </div>
+    <br />
+    <div class="box box2">
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
+        similique reiciendis cumque nulla id voluptate explicabo neque velit.
+        Soluta iusto accusantium eveniet beatae commodi vero optio cupiditate
+        iste possimus dolores libero repellat ab, numquam corrupti sed et quis?
+        Sapiente molestiae aliquid nihil eaque optio, delectus quibusdam unde
+        corrupti voluptatibus amet?
+      </p>
+    </div>
